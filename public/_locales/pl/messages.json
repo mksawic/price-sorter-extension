@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "Sortownik Cen",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Sortuj produkty po cenie pomijając promowane pozycje.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Sortownik Cen",
+    "description": "Popup title"
+  },
+  "statusActive": {
+    "message": "Aktywne",
+    "description": "Status when sorting is active"
+  },
+  "statusInactive": {
+    "message": "Nieaktywne",
+    "description": "Status when sorting is inactive"
+  },
+  "footerNote": {
+    "message": "Rozszerzenie aktywuje się tylko gdy włączysz sortowanie po cenach",
+    "description": "Footer note about when extension is active"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    // File Layout
+    "rootDirs": ["./src", "./scripts"],
+    "outDir": "./dist",
+    "baseUrl": ".",
+    "paths": {
+      "*": ["./src/*"]
+    },
+
+    // Environment Settings
+    "module": "preserve",
+    "target": "es2024",
+    "lib": ["es2022", "dom", "dom.iterable"],
+
+    // Other Outputs
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    // Stricter Typechecking Options
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    // Recommended Options
+    "strict": true,
+    "jsx": "react-jsx",
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true
+  }
+}

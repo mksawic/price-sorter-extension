@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "Price Sorter",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Sort product listings by price, bypassing promoted items.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Price Sorter",
+    "description": "Popup title"
+  },
+  "statusActive": {
+    "message": "Active",
+    "description": "Status when sorting is active"
+  },
+  "statusInactive": {
+    "message": "Inactive",
+    "description": "Status when sorting is inactive"
+  },
+  "footerNote": {
+    "message": "Extension activates only when you enable sorting by price",
+    "description": "Footer note about when extension is active"
+  }
+}
